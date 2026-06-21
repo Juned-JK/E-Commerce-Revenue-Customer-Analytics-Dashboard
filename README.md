@@ -26,7 +26,6 @@ The project follows a complete analytics workflow:
 
 * Python
 * Pandas
-* NumPy
 
 ### Database
 
